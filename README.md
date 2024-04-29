@@ -1,9 +1,18 @@
 # AI Judge using Large Language Model
 
-## Three AI Judges trained using QLoRA
+An AI Judge system that autonomously delivers legal judgments for criminal cases using transformer-based Large Language Models (LLM) enhanced with QLoRA tuning.
+
+Course: NTU CSIE 5431 Applied Deep Learning, Fall 2023
+
+Instructor: Yun-Nung (Vivian) Chen
+
+## Overview
+This project, developed by Yi-Jie Cheng, Wei-Hsiang Huang, Zhi-Bao Lu, and Chia-Hung Chiang, implements an AI Judge system that autonomously provides legal judgments for criminal cases using transformer-based LLMs. The AI Judge system leverages models like TaiwanLlama and ChineseLlama, enhanced with QLoRA tuning to deliver accurate legal judgments. This system is designed to bridge the gap between complex legal knowledge and public accessibility.
+
+
+## Two AI Judges trained using QLoRA
 - Knowledgeable Taiwanese Judge: './TaiwanLlama'
 - Knowledgeable Chinese   Judge: './Llama2-Chinese-7b-Chat'
-- Knowledgeable Taiwanese Judge 2: './TaiwanLlama_bad'
 
 
 ## Sources of data:
@@ -12,9 +21,4 @@
 - 公務人員特種考試司法人員考試、移民行政考試、調查局、海岸巡防人員考試：刑法、刑法概要
 URL:https://www.public.com.tw/exampoint/2022-judicial
 - 無罪：Created by human: About 50 data.
-
-## Evaluate
-We adopted human evaluation on the testing data to evaluate the preformance of each judges. Two stages evaluations are provided.
-- Stage 1: 'Correctness'. The score here is based on the correctness of predicted crime name.
-- Stage 2: 'Celebrity Traits'. The score here is based on the voting in our survey, which includes the prediction in testing data for every judges.
 
