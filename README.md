@@ -21,5 +21,5 @@ This project implements an AI Judge system that autonomously provides legal judg
 - [司法院全球資訊網](https://www.judicial.gov.tw/tw/np-117-1.html)
 - [國民中學段考公民科試題](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjHgM\_5qZmDAxVwjK8BHQvsB-gQFnoECA8QAQ&url=https%3A%2F%2Fwww.grjh.ntpc.edu.tw%2Fapp%2Findex.php%3FAction%3Ddownloadfile%26file%3DWVhSMFlXTm9Mek15TDNCMFlWOHlPVGt6WHpreU16TTVNalZmTlRVNU1qY3VaRzlq%26fname%3DWW54RPOKNPSSTXKK44VWROWTWWNK14KK203435NKIH25ML3134TSA0POFGOOFGGHUS54WWMPA40441JGYWJGA0YSECRKNO3501YTXWB5ROA434SWECOKXSXXYWXW4521JCLKSXIGXSJC24WSUS30A110&usg=AOvVaw3pa0gilcNiTjrqHMA6HzSW&opi=89978449)
 - [公職王公務人員考試解答](https://www.public.com.tw/exampoint/2022-judicial)
-- 無罪：Created by human
+- 無罪：Created by ourselves
 
