@@ -1,4 +1,4 @@
-# Knowledgeable Taiwanese Judge
+# Taiwanese-Judge
 
 ## Setting
 - QLoRA with alpha=8, r=4.
