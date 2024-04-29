@@ -20,11 +20,11 @@ python3 train.py --train_file "train.json" --epochs 3 --save_path [Your Adapter 
 
 ## Predict
 ```
-python3 predict.py --peft_path "TaiwanLlama_final" --valid_file "test.json" --output_file "output.json"
+python3 predict.py --peft_path "TaiwanLlama_model" --valid_file "test.json" --output_file "output.json"
 ```
 
 ## Demo
 ```
-python3 demo.py --peft_path "TaiwanLlama_final"
+python3 demo.py --peft_path "TaiwanLlama_model"
 ```
 
