@@ -1,4 +1,4 @@
-# Knowledgeable Chinese Judge
+# Chinese-Judge
 
 ## Setting
 - QLoRA with alpha=8, r=4.
@@ -20,12 +20,12 @@ python3 train.py --train_file "train.json" --epochs 3 --save_path [Your Adapter 
 
 ## Predict
 ```
-python3 predict.py --peft_path "ChineseLlama_final" --valid_file "test.json" --output_file "output.json" --model_name_or_path "FlagAlpha/Llama2-Chinese-7b-Chat"
+python3 predict.py --peft_path "ChineseLlama_model" --valid_file "test.json" --output_file "output.json" --model_name_or_path "FlagAlpha/Llama2-Chinese-7b-Chat"
 ```
 
 ## Demo
 ```
-python3 demo.py --peft_path "ChineseLlama_final" --model_name_or_path "FlagAlpha/Llama2-Chinese-7b-Chat"
+python3 demo.py --peft_path "ChineseLlama_model" --model_name_or_path "FlagAlpha/Llama2-Chinese-7b-Chat"
 ```
 
 
