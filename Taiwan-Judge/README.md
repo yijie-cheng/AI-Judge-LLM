@@ -6,7 +6,7 @@
 
 ## Data
 - 434 training data from the Internet. (train.json)
-- 10  testing  data from the Internet. (test.json)
+- 10  testing data from the Internet. (test.json)
 
 ## Change to readble JSON file
 ```
@@ -23,11 +23,8 @@ python3 train.py --train_file "train.json" --epochs 3 --save_path [Your Adapter 
 python3 predict.py --peft_path "TaiwanLlama_final" --valid_file "test.json" --output_file "output.json"
 ```
 
-
 ## Demo
 ```
 python3 demo.py --peft_path "TaiwanLlama_final"
 ```
-## Model Version
-- TaiwanLlama\_final: Training with 434 training data, with unified data format.
-- TaiwanLlama\_200: Training with 200 training data, without unified data format.
+

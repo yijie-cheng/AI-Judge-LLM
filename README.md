@@ -1,4 +1,4 @@
-# AI Judge using Large Language Model
+# AI Judge using Large Language Models
 
 An AI Judge system that autonomously delivers legal judgments for criminal cases using transformer-based Large Language Models (LLM) enhanced with QLoRA tuning.
 
@@ -11,8 +11,8 @@ This project, developed by Yi-Jie Cheng, Wei-Hsiang Huang, Zhi-Bao Lu, and Chia-
 
 
 ## Two AI Judges trained using QLoRA
-- Taiwanese Judge: './TaiwanLlama'
-- Chinese   Judge: './Llama2-Chinese-7b-Chat'
+- Taiwanese-Judge: [yentinglin/Taiwan-LLM-13B-v2.0-chat](https://huggingface.co/yentinglin/Taiwan-LLM-13B-v2.0-chat)
+- Chinese-Judge: [FlagAlpha/Llama2-Chinese-7b-Chat](https://huggingface.co/FlagAlpha/Llama2-Chinese-7b-Chat)
 
 
 ## Sources of data:
