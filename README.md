@@ -11,14 +11,13 @@ This project, developed by Yi-Jie Cheng, Wei-Hsiang Huang, Zhi-Bao Lu, and Chia-
 
 
 ## Two AI Judges trained using QLoRA
-- Knowledgeable Taiwanese Judge: './TaiwanLlama'
-- Knowledgeable Chinese   Judge: './Llama2-Chinese-7b-Chat'
+- Taiwanese Judge: './TaiwanLlama'
+- Chinese   Judge: './Llama2-Chinese-7b-Chat'
 
 
 ## Sources of data:
-- https://www.judicial.gov.tw/tw/np-117-1.html （司法院）
-- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjHgM\_5qZmDAxVwjK8BHQvsB-gQFnoECA8QAQ&url=https%3A%2F%2Fwww.grjh.ntpc.edu.tw%2Fapp%2Findex.php%3FAction%3Ddownloadfile%26file%3DWVhSMFlXTm9Mek15TDNCMFlWOHlPVGt6WHpreU16TTVNalZmTlRVNU1qY3VaRzlq%26fname%3DWW54RPOKNPSSTXKK44VWROWTWWNK14KK203435NKIH25ML3134TSA0POFGOOFGGHUS54WWMPA40441JGYWJGA0YSECRKNO3501YTXWB5ROA434SWECOKXSXXYWXW4521JCLKSXIGXSJC24WSUS30A110&usg=AOvVaw3pa0gilcNiTjrqHMA6HzSW&opi=89978449 （高中題目）
-- 公務人員特種考試司法人員考試、移民行政考試、調查局、海岸巡防人員考試：刑法、刑法概要
-URL:https://www.public.com.tw/exampoint/2022-judicial
-- 無罪：Created by human: About 50 data.
+- [司法院全球資訊網](https://www.judicial.gov.tw/tw/np-117-1.html)
+- [國民中學段考公民科試題](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjHgM\_5qZmDAxVwjK8BHQvsB-gQFnoECA8QAQ&url=https%3A%2F%2Fwww.grjh.ntpc.edu.tw%2Fapp%2Findex.php%3FAction%3Ddownloadfile%26file%3DWVhSMFlXTm9Mek15TDNCMFlWOHlPVGt6WHpreU16TTVNalZmTlRVNU1qY3VaRzlq%26fname%3DWW54RPOKNPSSTXKK44VWROWTWWNK14KK203435NKIH25ML3134TSA0POFGOOFGGHUS54WWMPA40441JGYWJGA0YSECRKNO3501YTXWB5ROA434SWECOKXSXXYWXW4521JCLKSXIGXSJC24WSUS30A110&usg=AOvVaw3pa0gilcNiTjrqHMA6HzSW&opi=89978449)
+- [公職王公務人員考試解答](https://www.public.com.tw/exampoint/2022-judicial)
+- 無罪：Created by human (About 50 data)
 
